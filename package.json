@@ -1,7 +1,7 @@
 {
-  "name": "the-ultimate-profile-center",
+  "name": "react-redux-template",
   "version": "1.0.0",
-  "description": "The ultimate profile center for Salesforce Marketing Cloud",
+  "description": "A template for react-redux projects",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.21.1",
