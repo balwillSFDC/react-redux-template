@@ -1,5 +1,5 @@
 # Welcome to the react-redux-template repo
-This template was created to reduce the setup effort necessary to create a scalable web app that leverages redux and other best practices.
+This template was created to reduce the setup effort necessary to create a scalable React web app that leverages redux and other best practices.
 
 ## What are the benefits of using this template? 
 * Easy deployment to heroku (only need to deploy one project)
